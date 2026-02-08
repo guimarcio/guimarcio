@@ -3,7 +3,7 @@ Mechatronics Engineer | Machine Learning | Data Modeling and Analysis | Signal P
 
 [LinkedIn](www.linkedin.com/in/guilherme-marcio-de-melo)
 
-## Skills
+<!-- ## Skills-->
 
 ## Education
 UFMG - Master's Degree - Electrical Engineering - Computational Intelligence
