@@ -17,7 +17,7 @@ CEFET-MG - Bachelor's Degree - Mechatronics Engineering
 ## Participation in Events-->
 
 ## Professional Experience
-UFMG - Master’s Degree Scholarship - Signal Processing
+UFMG - Master’s Degree Scholarship - Speech Signal Processing
 
 SAAE - Intern - Maintenace Management Software Development in Java
 
